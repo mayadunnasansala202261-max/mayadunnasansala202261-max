@@ -22,7 +22,7 @@ with clean UI and practical functionality.
   🔗 https://smartclinicsystem-218eb.web.app/
 
 ## 🌐 Portfolio
-🔗 https://69450b3b82351fbd08c60b9b--maya-magical-portfolio.netlify.app/
+🔗 https://maya-magical-portfolio.netlify.app/
 
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/sansala-mayadunna-b5a4a2319/
