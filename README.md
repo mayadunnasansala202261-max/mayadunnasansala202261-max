@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sansala Mayadunna 👋
 
-<!--
-**mayadunnasansala202261-max/mayadunnasansala202261-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer passionate about building real-world web applications
+with clean UI and practical functionality.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Firebase
+- Tools: GitHub, Netlify, Firebase Hosting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Featured Projects
+- **Bloody Rooby** – Quiz Learning Platform  
+  🔗 https://bloodyrooby.xo.je/
+
+- **Expense Tracker** – Personal finance tracking application  
+  🔗 https://expense-tracker-647a4.web.app/
+
+- **Smart Inventory System** – Inventory management solution  
+  🔗 https://smart-inventory-system-af044.web.app/
+
+- **Smart Clinic System** – Clinic management system  
+  🔗 https://smartclinicsystem-218eb.web.app/
+
+## 🌐 Portfolio
+🔗 https://69450b3b82351fbd08c60b9b--maya-magical-portfolio.netlify.app/
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/sansala-mayadunna-b5a4a2319/
