@@ -9,6 +9,9 @@ with clean UI and practical functionality.
 - Tools: GitHub, Netlify, Firebase Hosting
 
 ## 🧩 Featured Projects
+- **SkillPro** – SkillPro streamlines academic and administrative operations through a single, role-based platform. 
+  🔗 https://myskillpro.great-site.net/
+
 - **Bloody Rooby** – Quiz Learning Platform  
   🔗 https://bloodyrooby.xo.je/
 
@@ -18,8 +21,8 @@ with clean UI and practical functionality.
 - **Smart Inventory System** – Inventory management solution  
   🔗 https://smart-inventory-system-af044.web.app/
 
-- **Smart Clinic System** – Clinic management system  
-  🔗 https://smartclinicsystem-218eb.web.app/
+- **Resume Builder** –  generates professional resumes in PDF format
+  🔗 https://resume-builder-43545.web.app/
 
 ## 🌐 Portfolio
 🔗 https://maya-magical-portfolio.netlify.app/
