@@ -21,7 +21,7 @@ with clean UI and practical functionality.
 - **Smart Inventory System** – Inventory management solution  
           🔗 https://smart-inventory-system-af044.web.app/
   
-- **Resume Builder** –  generates professional resumes in PDF format
+- **Resume Builder** – Generates professional resumes in PDF format
           🔗 https://resume-builder-43545.web.app/
 
 ## 🌐 Portfolio
