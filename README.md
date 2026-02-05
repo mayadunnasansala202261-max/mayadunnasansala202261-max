@@ -7,24 +7,25 @@
 
 ## 🛠 Tech Stack
 
-**Frontend**
+### Frontend
 
 * React
-* HTML5, CSS3
+* HTML5
+* CSS3
 * JavaScript (ES6+)
 
-**Backend**
+### Backend
 
 * PHP
 * Firebase (Authentication, Firestore)
 * MySQL
 
-**Tools & Hosting**
+### Tools & Hosting
 
 * GitHub
 * Netlify
 * Firebase Hosting
-* **InfinityFree**
+* InfinityFree
 
 ---
 
@@ -32,7 +33,7 @@
 
 ### 🔹 SkillPro
 
-Role-based academic & administrative management system for a TVET institute.
+Role-based academic and administrative management system for a TVET institute.
 **Tech:** HTML, CSS, JavaScript, PHP, MySQL
 **Hosting:** InfinityFree
 🔗 Live: [https://myskillpro.great-site.net/](https://myskillpro.great-site.net/)
@@ -87,6 +88,6 @@ Web application for generating professional PDF resumes.
 
 ---
 
-⭐ *Open to junior / full-stack web developer opportunities.*
+⭐ *Open to junior,and full-stack web developer opportunities.*
 
 
