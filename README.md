@@ -9,7 +9,7 @@ with clean UI and practical functionality.
 - Tools: GitHub, Netlify, Firebase Hosting
 
 ## 🧩 Featured Projects
-- **SkillPro** – SkillPro streamlines academic and administrative operations through a single, role-based platform. 
+- **SkillPro** – SkillPro streamlines academic and administrative operations through a single, role-based platform.
   🔗 https://myskillpro.great-site.net/
 
 - **Bloody Rooby** – Quiz Learning Platform  
